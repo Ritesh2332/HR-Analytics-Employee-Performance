@@ -46,15 +46,15 @@ Each SQL query was meticulously crafted to address specific analytical questions
 ## Data Visualization in Power BI:
 Apart from SQL analysis, the project's findings were brought to life through data visualization in Power BI. This visualization provided an intuitive and engaging representation of key insights extracted from the dataset, enhancing the overall understanding of employee performance and related metrics.
 
-Dashboard 1 - ![Alt Text](https://github.com/RobinMillford/HR-Analytics-Employee-Performance-Analysis/blob/main/Page%201.png)
+Dashboard 1 - ![Alt Text](https://github.com/Ritesh2332/HR-Analytics-Employee-Performance/blob/main/Page_1.png)
 
 
-Dashboard 2 - ![Alt Text](https://github.com/RobinMillford/HR-Analytics-Employee-Performance-Analysis/blob/main/Page%202.png)
+Dashboard 2 - ![Alt Text](https://github.com/Ritesh2332/HR-Analytics-Employee-Performance/blob/main/Page_2.png)
 
 
-Dashboard 3 - ![Alt Text](https://github.com/RobinMillford/HR-Analytics-Employee-Performance-Analysis/blob/main/Page%203.png)
+Dashboard 3 - ![Alt Text](https://github.com/Ritesh2332/HR-Analytics-Employee-Performance/blob/main/Page_3.png)
 
 
-Dashboard 4 - ![Alt Text](https://github.com/RobinMillford/HR-Analytics-Employee-Performance-Analysis/blob/main/Page%204.png)
+Dashboard 4 - ![Alt Text](https://github.com/Ritesh2332/HR-Analytics-Employee-Performance/blob/main/Page_4.png)
 
 The combined use of SQL queries and Power BI visualization offered a comprehensive view of HR analytics, enabling informed decision-making and strategy development for optimizing employee performance and engagement within the organization.
