@@ -1,4 +1,4 @@
-# Analyzing Employee’s Performance for HR Analytics
+# 📌Analyzing Employee’s Performance for HR Analytics
 
 Dataset - https://www.kaggle.com/datasets/sanjanchaudhari/employees-performance-for-hr-analytics
 
@@ -7,6 +7,12 @@ The analysis journey began with data preprocessing, where I meticulously cleaned
 
 ## Exporting Cleaned Dataset:
 The cleaned dataset was exported as a CSV file with UTF-8 encoding, facilitating seamless analysis. This refined dataset was saved separately for further exploration.
+
+## 📊 Exploratory Data Analysis (EDA)
+
+With the cleaned data ready, exploratory analysis was conducted using `eda.ipynb`.  
+- Key visualizations include distributions of training scores, KPIs, previous year ratings, age by gender, etc.  
+- The goal was to uncover patterns, outliers, and trends before moving to SQL insights.
 
 ## SQL Queries:
 A series of SQL queries were executed to delve into various facets of the dataset:
